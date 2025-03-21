@@ -4,6 +4,7 @@ void calculateHomeValue();
 
 int main() {
     calculateHomeValue();
+    // comment
     return 0;
 }
 
